@@ -22,12 +22,12 @@
     "url": "https://digichanges.com/",
     "icon": "https://favicons.githubusercontent.com/digichanges.com",
     "slug": "dgc-prod",
-    "status": "up",
-    "uptime": "91.81%",
-    "uptimeDay": "79.39%",
-    "uptimeWeek": "78.67%",
-    "uptimeMonth": "91.81%",
-    "uptimeYear": "91.81%",
+    "status": "down",
+    "uptime": "91.87%",
+    "uptimeDay": "79.38%",
+    "uptimeWeek": "78.66%",
+    "uptimeMonth": "91.87%",
+    "uptimeYear": "91.87%",
     "time": 144,
     "timeDay": 117,
     "timeWeek": 127,
@@ -43,7 +43,7 @@
       "2022-03-23": 265,
       "2022-03-22": 480,
       "2022-03-21": 249,
-      "2022-03-20": 229
+      "2022-03-20": 210
     }
   }
 ]
