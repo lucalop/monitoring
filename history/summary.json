@@ -4,18 +4,19 @@
     "url": "https://develop.digichanges.com/",
     "icon": "https://favicons.githubusercontent.com/develop.digichanges.com",
     "slug": "dgc-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
-    "time": 196,
-    "timeDay": 163,
-    "timeWeek": 197,
+    "time": 195,
+    "timeDay": 162,
+    "timeWeek": 195,
     "timeMonth": 190,
-    "timeYear": 196,
+    "timeYear": 195,
     "dailyMinutesDown": {
+      "2022-07-02": 0,
       "2022-06-30": 18,
       "2022-06-14": 21
     }
@@ -25,18 +26,19 @@
     "url": "https://digichanges.com/",
     "icon": "https://favicons.githubusercontent.com/digichanges.com",
     "slug": "dgc-prod",
-    "status": "up",
-    "uptime": "98.20%",
+    "status": "down",
+    "uptime": "98.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "98.20%",
+    "uptimeYear": "98.21%",
     "time": 144,
-    "timeDay": 131,
-    "timeWeek": 138,
-    "timeMonth": 173,
+    "timeDay": 109,
+    "timeWeek": 135,
+    "timeMonth": 171,
     "timeYear": 144,
     "dailyMinutesDown": {
+      "2022-07-02": 0,
       "2022-06-30": 18,
       "2022-06-14": 21,
       "2022-03-30": 96,
@@ -49,7 +51,7 @@
       "2022-03-23": 265,
       "2022-03-22": 480,
       "2022-03-21": 249,
-      "2022-03-20": 92
+      "2022-03-20": 72
     }
   }
 ]
