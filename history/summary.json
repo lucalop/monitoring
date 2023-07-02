@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/develop.digichanges.com.ico",
     "slug": "dgc-dev",
     "status": "down",
-    "uptime": "45.03%",
+    "uptime": "44.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "27.07%",
-    "time": 192,
+    "uptimeYear": "26.79%",
+    "time": 193,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 192,
+    "timeYear": 193,
     "dailyMinutesDown": {
-      "2023-07-01": 112,
+      "2023-07-02": 113,
+      "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
@@ -283,8 +284,7 @@
       "2022-10-10": 1440,
       "2022-10-09": 1440,
       "2022-10-08": 1440,
-      "2022-10-07": 171,
-      "2022-07-02": 17
+      "2022-10-07": 171
     }
   },
   {
@@ -299,13 +299,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 141,
-    "timeDay": 115,
-    "timeWeek": 119,
+    "timeDay": 96,
+    "timeWeek": 113,
     "timeMonth": 111,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2022-11-19": 28,
-      "2022-07-02": 17
+      "2022-11-19": 28
     }
   }
 ]
