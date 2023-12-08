@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-08": 925,
+      "2023-12-08": 940,
       "2023-12-07": 1440,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
@@ -388,7 +388,7 @@
     "url": "https://digichanges.com/",
     "icon": "https://icons.duckduckgo.com/ip3/digichanges.com.ico",
     "slug": "dgc-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
     "uptimeDay": "93.67%",
     "uptimeWeek": "99.10%",
