@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-18": 1247,
+      "2025-05-19": 116,
+      "2025-05-18": 1440,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
@@ -379,8 +380,7 @@
       "2024-05-23": 1440,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
-      "2024-05-20": 1440,
-      "2024-05-19": 1440
+      "2024-05-20": 1440
     }
   },
   {
@@ -390,17 +390,15 @@
     "slug": "dgc-prod",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 138,
-    "timeDay": 190,
-    "timeWeek": 202,
-    "timeMonth": 185,
+    "timeDay": 126,
+    "timeWeek": 198,
+    "timeMonth": 183,
     "timeYear": 135,
-    "dailyMinutesDown": {
-      "2025-05-18": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
