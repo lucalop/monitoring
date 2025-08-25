@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-25": 1195,
+      "2025-08-25": 1210,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
@@ -388,19 +388,19 @@
     "url": "https://digichanges.com/",
     "icon": "https://icons.duckduckgo.com/ip3/digichanges.com.ico",
     "slug": "dgc-prod",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 137,
-    "timeDay": 194,
-    "timeWeek": 188,
-    "timeMonth": 149,
+    "timeDay": 174,
+    "timeWeek": 180,
+    "timeMonth": 148,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2025-08-25": 0,
+      "2025-08-25": 16,
       "2025-06-30": 49
     }
   }
